@@ -1,4 +1,4 @@
-<h1 align="center"> Oi! tudo bem?👋🏻</h1>
+<h1 align="center"> Oi! tudo bem?🙋🏽</h1>
 
 Oi! Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de Penedo, no distrito de Maranguape, e estou cursando Técnico em Informática no IFCE Campus Maranguape. Estou começando minha jornada no GitHub, explorando e aprendendo mais sobre desenvolvimento de software, programação e tecnologias diversas.
 
@@ -30,4 +30,4 @@ Estudante de Técnico em Informática no IFCE Campus Maranguape | 🎓 Aprendend
 
 Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(marcilionunes2006@gmail.com))
+<a href = "mailto: marcilionunes2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
