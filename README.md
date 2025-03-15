@@ -35,7 +35,7 @@ Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 ___________________________________________
 🏞️ Curiosidades Sobre Mim
 
-🏃‍♂️ Apaixonado por Esportes: Se tem bola e movimento, eu tô dentro! Jogo futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha.
+🏃‍♂️ Apaixonado por Esportes: Se tem bola e movimento, eu tô dentro! Jogo um pouco de futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha.
 
 🥊 Na Luta e na Vida: Praticante de Boxe, Kickboxing e Muay Thai. A disciplina das lutas molda meu foco e minha determinação.
 
