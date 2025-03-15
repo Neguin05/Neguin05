@@ -1,6 +1,6 @@
-<h1 align="center"> Oi! tudo bem?🙋🏽</h1>
+<h1 align="center"> E ai! tudo bem?🙋🏽</h1>
 
-Oi! Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de Penedo, no distrito de Maranguape, e estou cursando Técnico em Informática no IFCE Campus Maranguape. Estou começando minha jornada no GitHub, explorando e aprendendo mais sobre desenvolvimento de software, programação e tecnologias diversas.
+Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de Penedo, no distrito de Maranguape, e estou cursando Técnico em Informática no IFCE Campus Maranguape. Estou começando minha jornada no GitHub, explorando e aprendendo mais sobre desenvolvimento de software, programação e tecnologias diversas.
 
 
 🚀 Meu objetivo aqui é aprender, colaborar e compartilhar projetos com a comunidade. Se você tiver dicas ou quiser trocar ideias sobre programação, não hesite em me chamar
@@ -35,3 +35,6 @@ Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+
+
