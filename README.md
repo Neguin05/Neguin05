@@ -31,10 +31,6 @@ Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 
 <a href = "mailto: marcilionunes2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
-
+![MarioGif](https://github.com/user-attachments/assets/d329facf-596b-488c-be7a-e380eb15ed69)
 
