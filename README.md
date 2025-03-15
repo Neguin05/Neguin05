@@ -32,5 +32,19 @@ Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 <a href = "mailto: marcilionunes2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
+___________________________________________
+🏞️ Curiosidades Sobre Mim
+
+🏃‍♂️ Apaixonado por Esportes: Se tem bola e movimento, eu tô dentro! Jogo futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha.
+
+🥊 Na Luta e na Vida: Praticante de Boxe, Kickboxing e Muay Thai. A disciplina das lutas molda meu foco e minha determinação.
+
+🌿 Conexão com a Natureza: Não sou de ficar preso em telas, prefiro a vida ao ar livre. Amo explorar serras, cachoeiras, trilhas e viagens que trazem novas experiências.
+
+🌍 Viver Intensamente: Valorizo cada segundo e busco aproveitar a vida ao máximo, sempre com um sorriso no rosto, mesmo nos momentos difíceis.
+
+😎 Orgulho Pessoal: Tenho orgulho de quem sou e de quem estou me tornando. Cada desafio é uma oportunidade para evoluir.
+
+
 ![MarioGif](https://github.com/user-attachments/assets/d329facf-596b-488c-be7a-e380eb15ed69)
 
