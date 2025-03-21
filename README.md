@@ -5,7 +5,7 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 
 🚀 Meu objetivo aqui é aprender, colaborar e compartilhar projetos com a comunidade. Se você tiver dicas ou quiser trocar ideias sobre programação, não hesite em me chamar
 
- 👨‍💻 Essas são algumas das liguagem que eu ja usei ou uso: _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_
+ 👨‍💻 Essas são algumas das liguagem que eu ja usei ou uso: _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_, _**C++**_
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B)
@@ -15,6 +15,7 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 ![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=FF0000)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Ferramentas de uso:
 
