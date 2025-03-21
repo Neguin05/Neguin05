@@ -31,7 +31,7 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 
 Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 
-<a href = "mailto: marcilionunes2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcilionunes2006@gmail.com)
 
 
 ___________________________________________
