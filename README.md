@@ -5,19 +5,22 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 
 🚀 Meu objetivo aqui é aprender, colaborar e compartilhar projetos com a comunidade. Se você tiver dicas ou quiser trocar ideias sobre programação, não hesite em me chamar
 
- 👨‍💻 Essas são algumas das liguagem que eu ja usei ou uso: _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_, _**C++**_
+ 👨‍💻 Essas são algumas das Liguagem e Tecnologias que eu uso ou ja usei: _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_, _**C++**_
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=A52A2A)
 ![CSS](https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=00BFFF)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=FF0000)
+![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=FF0000)                  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-### Ferramentas de uso:
+
+
+### Ferramentas de uso:                    
+
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -28,6 +31,13 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 ![Terminal](https://img.shields.io/badge/Terminal-222222?style=for-the-badge&logo=Accenture&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
+
 
 Se quiser bater um papo ou trocar umas ideias, me manda um e-mail:
 
