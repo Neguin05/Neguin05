@@ -37,7 +37,7 @@ Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de
 
 ### 📊 Estatísticas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neguin05&layout=compact&theme=dark)
 
 
 
