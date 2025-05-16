@@ -1,4 +1,4 @@
-<h1 align="center">E ai! tudo bem? 🙋🏾‍♂️</h1>
+<h1 align="center">E ai! tudo bem? </h1>
 
 Eu sou o _**Marcilio**_, mas conhecido também como _**Neguin**_. Sou natural de Penedo, no distrito de Maranguape, e estou cursando Técnico em Informática no IFCE Campus Maranguape. Estou começando minha jornada no GitHub, explorando e aprendendo mais sobre desenvolvimento de software, programação e tecnologias diversas.
 
@@ -37,19 +37,20 @@ _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_,
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neguin05&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
 
+
 ---
 
-### 📩 Contato
+###  Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcilionunes2006@gmail.com)
 
 ---
 
-## 🏞 Curiosidades Sobre Mim
+##  Curiosidades Sobre Mim
 
  **Apaixonado por Esportes**  
 Se tem bola e movimento, eu tô dentro! Jogo um pouco de futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha.
@@ -63,10 +64,14 @@ Não sou de ficar preso em telas, prefiro a vida ao ar livre. Amo explorar serra
  **Viver Intensamente**  
 Valorizo cada segundo e busco aproveitar a vida ao máximo, sempre com um sorriso no rosto, mesmo nos momentos difíceis.
 
-😎 **Orgulho Pessoal**  
+ **Orgulho Pessoal**  
 Tenho orgulho de quem sou e de quem estou me tornando. Cada desafio é uma oportunidade para evoluir.
 
 ---
 
-<!-- Caso queira adicionar novamente o GIF, suba para um repositório público -->
-<!-- ![MarioGif](https://github.com/user-attachments/assets/d329facf-596b-488c-be7a-e380eb15ed69) -->
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" />
+</p>
+
+
+
