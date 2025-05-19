@@ -50,22 +50,29 @@ _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_,
 
 ---
 
-##  Curiosidades Sobre Mim
 
- **Apaixonado por Esportes**  
-Se tem bola e movimento, eu tô dentro! Jogo um pouco de futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha.
 
- **Na Luta e na Vida**  
-Praticante de Boxe, Kickboxing e Muay Thai. A disciplina das lutas molda meu foco e minha determinação.
 
- **Conexão com a Natureza**  
-Não sou de ficar preso em telas, prefiro a vida ao ar livre. Amo explorar serras, cachoeiras, trilhas e viagens que trazem novas experiências.
+## Curiosidades Sobre Mim
 
- **Viver Intensamente**  
-Valorizo cada segundo e busco aproveitar a vida ao máximo, sempre com um sorriso no rosto, mesmo nos momentos difíceis.
+**Apaixonado por Esportes**  
+Se tem bola e movimento, eu tô dentro! Jogo futebol, futsal, vôlei, futmesa, beach tennis e curto uma boa altinha com os amigos.
 
- **Orgulho Pessoal**  
-Tenho orgulho de quem sou e de quem estou me tornando. Cada desafio é uma oportunidade para evoluir.
+**Na Luta e na Vida**  
+Pratico Boxe, Kickboxing e Muay Thai. A disciplina das lutas molda meu foco, minha força de vontade e minha forma de encarar os desafios.
+
+**Conexão com a Natureza**  
+Não sou de ficar preso em tela, gosto mesmo é da vida ao ar livre. Curto explorar serras, cachoeiras, trilhas e viagens que trazem novas histórias e aprendizados.
+
+**Viver Intensamente**  
+Valorizo cada segundo e busco aproveitar a vida ao máximo. A vida é única e a gente nunca sabe quando pode ser a última vez. Por isso, busco aproveitar cada momento como se fosse o último, vivendo intensamente e valorizando cada segundo.
+
+**Orgulho Pessoal**  
+Tenho orgulho de quem sou e de quem tô me tornando. Cada desafio é uma chance de evoluir e crescer como pessoa.
+
+**Experiência com Máquinas e Caminhões**  
+Tenho experiência operando máquinas pesadas como escavadeiras, pás carregadeiras, tratores, retroescavadeiras e também máquinas rotativas pra perfuração de poços. Dou valor ao serviço com caminhão e máquina grande, onde a prática fala mais alto que a teoria. Não sou de tela — gosto mesmo é de estar no campo, no meio do barro, poeira e motor roncando.
+
 
 ---
 
