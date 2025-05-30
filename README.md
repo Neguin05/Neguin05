@@ -36,6 +36,8 @@ _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_,
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=white)
 [![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=white)](https://neguin05.github.io/PROJECT-CARD/)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=white)](https://neguin05.github.io/PROJECT-CARD/)
 
+
+
 ---
 
 ###  Estatísticas
